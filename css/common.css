@@ -5,6 +5,7 @@ body {font-family:'Nanum Gothic', 'Cairo';font-size:16px;line-height:1.6;color:#
 
 /* header */
 .navbar {height:90px;padding-top:20px}
+.navbar .navbar-default {background-color:#F3F6FA;}
 .navbar .navbar-brand {color:#3C64B1;font-weight:700;}
 
 /* contents */
